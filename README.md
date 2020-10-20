@@ -1,1 +1,2 @@
 General text
+New features
